@@ -5,3 +5,6 @@ pandas==1.5.3  # Ensures compatibility with Streamlit 1.20.0
 numpy==1.24.3  # Set a stable version of NumPy to avoid binary incompatibility
 matplotlib==3.7.1
 Cython==0.29.36  # Latest version of Cython to avoid compilation issues
+pip==23.2.1  # Ensures latest pip for package management
+setuptools==65.5.1  # Compatible version of setuptools to avoid build issues
+
